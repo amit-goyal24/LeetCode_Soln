@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |

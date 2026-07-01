@@ -46,12 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0047-permutations-ii) |
+| [0242-valid-anagram](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

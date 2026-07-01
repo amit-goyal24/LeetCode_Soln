@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0027-remove-element) |
 ## Backtracking
 |  |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0047-permutations-ii) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

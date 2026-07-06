@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0047-permutations-ii) |
+| [0322-coin-change](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0322-coin-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0005-longest-palindromic-substring) |
+| [0322-coin-change](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |

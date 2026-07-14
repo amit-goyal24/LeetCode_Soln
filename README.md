@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0322-coin-change) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

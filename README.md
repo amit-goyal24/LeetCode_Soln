@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0051-n-queens) |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

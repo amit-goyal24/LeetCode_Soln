@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0518-coin-change-ii) |
+| [0739-daily-temperatures](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0155-min-stack) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0739-daily-temperatures](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

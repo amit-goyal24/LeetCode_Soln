@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0005-longest-palindromic-substring) |
+| [0071-simplify-path](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0155-min-stack) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Search

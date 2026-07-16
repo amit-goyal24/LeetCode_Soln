@@ -132,9 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0155-min-stack) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0035-search-insert-position) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

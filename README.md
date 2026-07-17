@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0039-combination-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0061-rotate-list) |
 ## Backtracking
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0175-combine-two-tables) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

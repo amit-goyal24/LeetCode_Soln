@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0051-n-queens) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0242-valid-anagram) |
 ## Trie
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->

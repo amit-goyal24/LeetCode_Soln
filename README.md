@@ -150,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

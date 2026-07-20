@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -173,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0518-coin-change-ii) |
 ## Hash Table
 |  |
@@ -176,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->

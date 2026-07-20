@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0036-valid-sudoku) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/amit-goyal24/LeetCode_Soln/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
